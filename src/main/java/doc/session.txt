@@ -4,6 +4,6 @@ state ko manage krna hota h to session ka use krte h
 ____________________________________________________
 Session Tracking Teachnigue
 1.Cookies
-2.Hidden form field
-3.URL rewriting
-4.HttpSession 
+2.Hidden form field ="<input type="hidden" value='xyz'/> "
+3.URL rewriting ="<a href='second?name='mkl' ></a>"
+4.HttpSession
