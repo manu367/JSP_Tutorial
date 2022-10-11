@@ -1,0 +1,9 @@
+Session-tracking
+--> client jab web server pr request send krta h to HTTP ke from me krta h ,jo ke Stateless hoti h.jab hme ish
+state ko manage krna hota h to session ka use krte h
+____________________________________________________
+Session Tracking Teachnigue
+1.Cookies
+2.Hidden form field
+3.URL rewriting
+4.HttpSession 
